@@ -1,5 +1,9 @@
 # CUSTOM-CHECKBOX
 CUSTOM-CHECKBOX is a simple and responsive custom checkbox component built using HTML and CSS. This project demonstrates how to create a visually appealing checkbox that enhances user experience without relying on JavaScript.
+# Technologies Used
+
+- HTML5
+- CSS3
 
 # Project Structure
 
