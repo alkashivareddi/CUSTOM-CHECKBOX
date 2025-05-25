@@ -26,6 +26,9 @@ CUSTOM-CHECKBOX/
 2.Navigate to the project folder:
 
   cd CUSTOM-CHECKBOX
+# License
+This project is open-source and available under the MIT License.
+
 
 
 
