@@ -18,6 +18,14 @@ CUSTOM-CHECKBOX/
 
 - Easy to integrate into existing projects
 
+# How to Use
+1.Clone the repository:
+
+  git clone https://github.com/alkashivareddi/CUSTOM-CHECKBOX.git
+  
+2.Navigate to the project folder:
+
+  cd CUSTOM-CHECKBOX
 
 
 
